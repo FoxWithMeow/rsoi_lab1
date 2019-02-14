@@ -1,0 +1,14 @@
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1\bin\Debug\netcoreapp2.1\rsoi_lab1.deps.json
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1\bin\Debug\netcoreapp2.1\rsoi_lab1.runtimeconfig.json
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1\bin\Debug\netcoreapp2.1\rsoi_lab1.runtimeconfig.dev.json
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1\bin\Debug\netcoreapp2.1\rsoi_lab1.dll
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1\bin\Debug\netcoreapp2.1\rsoi_lab1.pdb
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1\obj\Debug\netcoreapp2.1\rsoi_lab1.csprojAssemblyReference.cache
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1\obj\Debug\netcoreapp2.1\rsoi_lab1.csproj.CoreCompileInputs.cache
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1\obj\Debug\netcoreapp2.1\rsoi_lab1.RazorAssemblyInfo.cache
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1\obj\Debug\netcoreapp2.1\rsoi_lab1.RazorAssemblyInfo.cs
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1\obj\Debug\netcoreapp2.1\rsoi_lab1.AssemblyInfoInputs.cache
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1\obj\Debug\netcoreapp2.1\rsoi_lab1.AssemblyInfo.cs
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1\obj\Debug\netcoreapp2.1\rsoi_lab1.RazorTargetAssemblyInfo.cache
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1\obj\Debug\netcoreapp2.1\rsoi_lab1.dll
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1\obj\Debug\netcoreapp2.1\rsoi_lab1.pdb

@@ -1,0 +1,17 @@
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1_tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1_tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1_tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1_tests\bin\Debug\netcoreapp2.1\rsoi_lab1_tests.deps.json
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1_tests\bin\Debug\netcoreapp2.1\rsoi_lab1_tests.runtimeconfig.json
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1_tests\bin\Debug\netcoreapp2.1\rsoi_lab1_tests.runtimeconfig.dev.json
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1_tests\bin\Debug\netcoreapp2.1\rsoi_lab1_tests.dll
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1_tests\bin\Debug\netcoreapp2.1\rsoi_lab1.dll
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1_tests\bin\Debug\netcoreapp2.1\rsoi_lab1.pdb
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1_tests\obj\Debug\netcoreapp2.1\rsoi_lab1_tests.csprojAssemblyReference.cache
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1_tests\obj\Debug\netcoreapp2.1\rsoi_lab1_tests.csproj.CoreCompileInputs.cache
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1_tests\obj\Debug\netcoreapp2.1\rsoi_lab1_tests.AssemblyInfoInputs.cache
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1_tests\obj\Debug\netcoreapp2.1\rsoi_lab1_tests.AssemblyInfo.cs
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1_tests\obj\Debug\netcoreapp2.1\rsoi_lab1_tests.csproj.CopyComplete
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1_tests\bin\Debug\netcoreapp2.1\rsoi_lab1_tests.pdb
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1_tests\obj\Debug\netcoreapp2.1\rsoi_lab1_tests.dll
+C:\Users\Наталья\Downloads\Универ\РСОИ\rsoi_lab1\rsoi_lab1_tests\obj\Debug\netcoreapp2.1\rsoi_lab1_tests.pdb
